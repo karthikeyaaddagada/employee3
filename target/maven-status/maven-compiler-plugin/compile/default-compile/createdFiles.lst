@@ -1,0 +1,13 @@
+employeecompany\controllers\LocationController.class
+employeecompany\repositories\CompanyRepository.class
+employeecompany\controllers\EmployeeController.class
+employeecompany\repositories\EmployeeRepository.class
+employeecompany\services\EmployeeService.class
+employeecompany\employeecompany.class
+employeecompany\services\CompanyService.class
+employeecompany\entity\Location.class
+employeecompany\controllers\CompanyController.class
+employeecompany\repositories\LocationRepository.class
+employeecompany\entity\Employee.class
+employeecompany\services\LocationService.class
+employeecompany\entity\Company.class
